@@ -1,0 +1,15 @@
+{
+  "name": "furry",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "author": "Anna Mieszczyńska",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0"
+  }
+}
